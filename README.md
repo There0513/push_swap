@@ -8,13 +8,13 @@ optimized data sorting.
 
 - $> *make*
 - $> *ARG="4 67 3 87 553"; ./push_swap $ARG* <br>
-  pb
-  pb
-  rra
-  rra
-  pa
-  pa
-  rra
+  pb <br>
+  pb <br>
+  rra <br>
+  rra <br>
+  pa <br>
+  pa <br>
+  rra <br>
 
 
 You can use the binary file 'checker_linux' like this:
