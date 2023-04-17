@@ -7,7 +7,7 @@ types of algorithms and choose the most appropriate solution (out of many) for a
 optimized data sorting.
 
 - $> *make*
-- $> *ARG="4 67 3 87 553"; ./push_swap $ARG*
+- $> *ARG="4 67 3 87 553"; ./push_swap $ARG* <br>
   pb
   pb
   rra
