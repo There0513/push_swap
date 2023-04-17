@@ -18,9 +18,9 @@ The rules <br>
 • The goal is to sort in ascending order numbers into stack a. To do so you have the
 following operations at your disposal: <br>
 
-> **sa** (swap a): Swap the first 2 elements at the top of stack a. <br>
+> - **sa** (swap a): Swap the first 2 elements at the top of stack a. <br>
 Do nothing if there is only one or no elements. <br>
-**sb** (swap b): Swap the first 2 elements at the top of stack b. <br>
+- **sb** (swap b): Swap the first 2 elements at the top of stack b. <br>
 Do nothing if there is only one or no elements. <br>
 **ss** : sa and sb at the same time. <br>
 **pa** (push a): Take the first element at the top of b and put it at the top of a. <br>
