@@ -18,5 +18,5 @@ optimized data sorting.
 
 
 You can use the binary file 'checker_linux' like this:
-- $> *ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker_OS $ARG*
+- $> *ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker_OS $ARG*  <br>
    OK
