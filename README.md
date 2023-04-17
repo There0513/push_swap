@@ -8,6 +8,7 @@ optimized data sorting.
 
 
 
+
 The rules <br>
 • You have 2 stacks named a and b. <br>
 • At the beginning: <br>
